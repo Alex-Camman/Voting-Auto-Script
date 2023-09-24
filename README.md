@@ -6,6 +6,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-v14.17.5-brightgreen.svg)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-Web%20Automation-brightgreen.svg)
 
+
 Automate website voting with Puppeteer and random email generation.
 
 License
