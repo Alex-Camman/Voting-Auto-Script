@@ -114,3 +114,14 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Author
 Alex Camman aka TomFordCode1
+
+# Puppeteer Voting Script
+
+[![Build Status](https://travis-ci.com/Alex-Camman/Voting-Auto-Script.svg?branch=main)](https://travis-ci.com/Alex-Camman/Voting-Auto-Script)
+[![Coverage Status](https://img.shields.io/badge/Coverage-100%25-success.svg)](https://coveralls.io/github/Alex-Camman/Voting-Auto-Script?branch=main)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+Automate website voting with Puppeteer and random email generation.
+
+
+Automate website voting with Puppeteer and random email generation.
