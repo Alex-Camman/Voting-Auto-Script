@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.com/Alex-Camman/Voting-Auto-Script.svg?branch=main)](https://travis-ci.com/Alex-Camman/Voting-Auto-Script)
 [![Coverage Status](https://img.shields.io/badge/Coverage-100%25-success.svg)](https://coveralls.io/github/Alex-Camman/Voting-Auto-Script?branch=main)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Node.js](https://img.shields.io/badge/Node.js-v14.17.5-brightgreen.svg)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-Web%20Automation-brightgreen.svg)
 
 Automate website voting with Puppeteer and random email generation.
 
